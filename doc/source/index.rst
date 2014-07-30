@@ -4,29 +4,13 @@
 Openstack for Chef Project Specifications
 =========================================
 
-Contents:
+Juno specs:
 
 .. toctree::
    :glob:
-   :maxdepth: 1
+   :maxdepth: 4
 
-   specs/*
-
-Juno approved specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/juno/*
-
-Icehouse approved specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/icehouse/*
+   specs/juno/**
 
 ==================
 Indices and tables

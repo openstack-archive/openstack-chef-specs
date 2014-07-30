@@ -3,8 +3,8 @@ OpenStack-chef Specifications
 ==================================
 
 This git repository is used to hold approved design specifications for additions
-to the openstack-chef project.  Reviews of the specs are done in gerrit, using a similar
-workflow to how we review and merge changes to the code itself.
+to the openstack-chef project.  Reviews of the specifications are done in gerrit,
+using a similar workflow to how we review and merge changes to the code itself.
 
 The layout of this repository is::
 
@@ -16,6 +16,9 @@ Specifications are proposed for a given release by adding them to the
 `specs/<release>` directory and posting it for review.  The implementation
 status of a blueprint for a given release can be found by looking at the
 blueprint in launchpad.  Not all approved blueprints will get fully implemented.
+Use the Common cookbook directory for specifications that effect multiple
+cookbooks.  Once the specification is approved and merged, the LaunchPad
+blueprint will be updated accordingly.
 
 Specifications have to be re-proposed for every release.  The review may be
 quick, but even if something was previously approved, it should be re-reviewed
