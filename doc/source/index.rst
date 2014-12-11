@@ -11,6 +11,7 @@ Juno specs:
    :maxdepth: 4
 
    specs/juno/**
+   specs/kilo/**
 
 ==================
 Indices and tables
