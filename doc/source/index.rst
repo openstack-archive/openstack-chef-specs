@@ -12,6 +12,7 @@ Juno specs:
 
    specs/juno/**
    specs/kilo/**
+   specs/liberty/**
 
 ==================
 Indices and tables
