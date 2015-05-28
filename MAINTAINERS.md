@@ -15,6 +15,7 @@ PTL: [JJ Asghar](mailto:jj@chef.io?subject=[chef]%20Question%20about%20OpenStack
 | Alan Meadows | alanmeadows | alan.meadows@gmail.com | UTC-8 |
 | Ma Wen Chang | wenchma | wenchma@cn.ibm.com | UTC+8 |
 | Chen Zhiwei | zhiwei | zhiwchen@cn.ibm.com | UTC+8 |
+| Christopher M Luciano | cmluciano | cmlucian@us.ibm.com | UTC-5 |
 
 # General Code Reviewers
 
