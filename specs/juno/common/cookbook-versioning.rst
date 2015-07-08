@@ -5,7 +5,7 @@
  http://creativecommons.org/licenses/by/3.0/legalcode
 
 ==========================================
-Openstack Cookbook Versioning scheme
+OpenStack Cookbook Versioning scheme
 ==========================================
 
 Include the URL of your launchpad blueprint:
@@ -51,7 +51,7 @@ The system uses a three part version number, Major.Minor.Patch.
 For example: 9.2.33
 
 The Major number shouldn't change within a development branch. It will reflect the
-number that is the Alphabetized Letter of the base Openstack release,
+number that is the Alphabetized Letter of the base OpenStack release,
 see: https://wiki.openstack.org/wiki/Releases.  An example would be Icehouse
 being the 9th letter and the 9th release all the stable cookbooks would be 9.Y.Z.
 When the Master branch becomes stabilized, a new Stable branch will be created from

@@ -6,7 +6,7 @@ Include the URL of your launchpad blueprint:
 
 https://blueprints.launchpad.net/openstack-chef/+spec/docker-driver-configuration
 
-The Docker driver is a hypervisor driver for Openstack Nova Compute. It was introduced with the Havana release.
+The Docker driver is a hypervisor driver for OpenStack Nova Compute. It was introduced with the Havana release.
 Docker is an open-source engine which automates the deployment of applications as highly portable, self-sufficient
 containers which are independent of hardware, language, framework, packaging system and hosting provider.
 
@@ -157,10 +157,10 @@ References
 .. [NOVA_DOCKER_DRIVER] `Nova docker driver
    <https://github.com/stackforge/nova-docker/tree/master>`_
 
-.. [OPENSTACK_DOCKER_COOKBOOK_OLD] `Openstack Docker cookbook old
+.. [OPENSTACK_DOCKER_COOKBOOK_OLD] `OpenStack Docker cookbook old
    <https://github.com/paulczar/cookbook-openstack-docker>`_
 
-.. [OPENSTACK_DOCKER_DOCUMENTATION] `Openstack Docker Documentation
+.. [OPENSTACK_DOCKER_DOCUMENTATION] `OpenStack Docker Documentation
    <https://wiki.openstack.org/wiki/Docker>`_
 
 

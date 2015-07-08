@@ -1,7 +1,7 @@
 .. openstack-chef-specs documentation master file
 
 =========================================
-Openstack for Chef Project Specifications
+OpenStack for Chef Project Specifications
 =========================================
 
 Juno specs:
