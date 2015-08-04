@@ -1,18 +1,35 @@
 .. openstack-chef-specs documentation master file
 
-=========================================
-OpenStack for Chef Project Specifications
-=========================================
+=============================================
+Specifications for the OpenStack Chef Project
+=============================================
 
-Juno specs:
+Liberty approved specs
+======================
 
 .. toctree::
    :glob:
-   :maxdepth: 4
+   :maxdepth: 1
+
+   specs/liberty/**
+
+Kilo approved specs
+===================
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   specs/kilo/**
+
+Juno approved specs
+===================
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
 
    specs/juno/**
-   specs/kilo/**
-   specs/liberty/**
 
 ==================
 Indices and tables
