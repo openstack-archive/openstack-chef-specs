@@ -4,6 +4,15 @@
 Specifications for the OpenStack Chef Project
 =============================================
 
+Ocata approved specs
+====================
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   specs/ocata/**
+
 Liberty approved specs
 ======================
 
