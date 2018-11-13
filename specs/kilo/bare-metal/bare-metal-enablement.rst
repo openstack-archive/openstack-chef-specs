@@ -183,7 +183,7 @@ References
 ==========
 
 .. [BARE_METAL_TEMPLATE] `Bare Metal Template values
-   <http://docs.openstack.org/trunk/config-reference/content/ch_configuring-openstack-bare-metal.html>`_
+   <https://docs.openstack.org/trunk/config-reference/content/ch_configuring-openstack-bare-metal.html>`_
 
 .. [BARE_METAL_ENABLEMENT] `Bare Metal enablement blueprint
    <https://blueprints.launchpad.net/openstack-chef/+spec/bare-metal-enablement>`_
@@ -192,10 +192,10 @@ References
    <http://ipmitool.sourceforge.net/>`_
 
 .. [IRONIC_INSTALLATION_GUIDE] `Bare Metal Service Installation Guide
-   <http://docs.openstack.org/developer/ironic/deploy/install-guide.html>`_
+   <https://docs.openstack.org/developer/ironic/deploy/install-guide.html>`_
 
 .. [PXE] `PXE user guide
-   <http://docs.openstack.org/developer/ironic/deploy/user-guide.html#pxe>`_
+   <https://docs.openstack.org/developer/ironic/deploy/user-guide.html#pxe>`_
 
 .. [REST_API_V1] `Bare Metal RESTful Web API v1
-   <http://docs.openstack.org/developer/ironic/webapi/v1.html>`_
+   <https://docs.openstack.org/developer/ironic/webapi/v1.html>`_
