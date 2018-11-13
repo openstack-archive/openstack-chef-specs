@@ -114,7 +114,7 @@ The master cookbook should leverage the Semantic Versioning system lightly.
 We consider the master branch a fast paced "Work in Progress" until we come to the Release
 Candidate 1 date (RC-1). This means it will be under rapid and active development where
 versioning isn't always required.
-All patches must update the the CHANGELOG.md at a minimum.
+All patches must update the CHANGELOG.md at a minimum.
 
 +-------------------------------------------------------------------------+------------------+
 | Master Branch Example Situations                                        | Level of Change  |
