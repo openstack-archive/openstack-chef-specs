@@ -168,7 +168,7 @@ References
    <https://www.openswan.org>`_
 
 .. [VPN_TEMPLATE] `VPN template values
-   <http://docs.openstack.org/trunk/config-reference/content/networking-options-vpn.html>`_
+   <https://docs.openstack.org/trunk/config-reference/content/networking-options-vpn.html>`_
 
 .. [VPN_HORIZON] `VPN support in Horizon <https://review.openstack.org/#/c/108493/1>`_
 
