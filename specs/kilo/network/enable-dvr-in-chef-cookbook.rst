@@ -17,12 +17,12 @@ the Neutron configuration files to enable DVR.
 Proposed change
 ===============
 
-The following attribute file in cookbook-openstack-network will be mofified:
+The following attribute file in cookbook-openstack-network will be modified:
 * default.rb
 We will add attribute ['openstack']['network']['router_distributed'] in it.
 User can set this attribute to 'auto', true and false. When this attribute is
 set to 'auto', chef cookbook will do enough check, like checking whether
-network type ML2 extensions support DVR, checking whether OVS is enalbed,
+network type ML2 extensions support DVR, checking whether OVS is enabled,
 after that chef cookbook will enable DVR or output warning messages and logs
 to tell user what happened. And considering only GRE and VXLAN network types
 support DVR, router_distributed's true and false setting will only work in
