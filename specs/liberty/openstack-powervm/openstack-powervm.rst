@@ -110,7 +110,7 @@ Other deployer impact
 * As of now, we're considering the use of configuration attributes rather than
   roles to deploy PowerVM drivers since its usage is not considered generic yet.
 * The deployer will be able to deploy the PowerVM drivers from different sources
-  (github, public or private package repositories) by overidding
+  (github, public or private package repositories) by overriding
   configuration attributes.
 
 Developer impact
