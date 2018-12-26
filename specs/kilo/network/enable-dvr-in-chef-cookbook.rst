@@ -118,7 +118,7 @@ output when running "ip netns" on the compute nodes. Boot instances on N1 and
 N2 on different compute nodes, we should see network namespace on those compute
 nodes by running "ip netns".
 
-ip-netns is process network namesapce management command. You can run
+ip-netns is process network namespace management command. You can run
 "ip netns help" to get more usage. And "ip netns" is short for
 "ip netns list", it will show all of the named network namespaces, which
 are under /var/run/netns.
@@ -137,7 +137,7 @@ Documentation Impact
 
 * User can set ['openstack']['network']['router_distributed'] to 'auto' to
   let chef cookbook configure for DVR aumotically, enable DVR or give warning
-  mesaages.
+  messages.
 * DVR will be enabled by default when network type is GRE or VXLAN,
   user can set ['openstack']['network']['router_distributed]' to 'false'
   in override_attributes to disable it.
