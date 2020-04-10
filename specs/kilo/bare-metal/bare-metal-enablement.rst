@@ -191,11 +191,11 @@ References
 .. [IPMI] `IPMI tool source code
    <http://ipmitool.sourceforge.net/>`_
 
-.. [IRONIC_INSTALLATION_GUIDE] `Bare Metal Service Installation Guide
-   <https://docs.openstack.org/developer/ironic/deploy/install-guide.html>`_
-
 .. [PXE] `PXE user guide
    <https://docs.openstack.org/developer/ironic/deploy/user-guide.html#pxe>`_
 
 .. [REST_API_V1] `Bare Metal RESTful Web API v1
    <https://docs.openstack.org/developer/ironic/webapi/v1.html>`_
+
+`Bare Metal Service Installation Guide
+<https://docs.openstack.org/developer/ironic/deploy/install-guide.html>`_
